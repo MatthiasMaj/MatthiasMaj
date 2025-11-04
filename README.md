@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @MatthiasMaj
-- 🌱 I’m currently learning how to be a full stack developer
-- 💞️ I’m looking to collaborate on everything in Java to learn
+- 🌱 I’m currently doing AI automation
+- 💞️ I’m looking to collaborate with datas, python and AI, feel free to reach me if you need some datas cleaning
 - 📫 How to reach me ...
-- ⚡ Fun fact: I'm plumber.
 
 <!---
 MatthiasMaj/MatthiasMaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
