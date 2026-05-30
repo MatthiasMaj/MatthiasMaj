@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @MatthiasMaj
-- 🌱 I’m currently doing AI automation
-- 💞️ I’m looking to collaborate with datas, python and AI, feel free to reach me if you need some datas cleaning
-- 📫 How to reach me ...
+Bonjour, je m'appelle Matthias Majid.
 
-<!---
-MatthiasMaj/MatthiasMaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Je développe ma propre passerelle GTC/GTB
+
+J'utilise un siemens IOT 2050 que je raccorde aux automates. Avec Node-Red je récupere les points de donnée ce qui me permet de créer un dashboard technique pour visualiser les températures, modifier des points de consignes et tout ce qui est necessaire à la gestion de chaufferie.
+Un historique est créer via influxDB sur un serveur distant pour permettre le suivi des sites sous contrats.
+Via influxDB et Grafana je permet l'accès en lecture seule à la télérelève, et tous les points de températures dont le client à besoin.
+Je gère la partie sécurité avec WireGuard et UFW.
+Les dashboards techniques et clients sont accessibles via le web grace à des proxy que je gère.
